@@ -1,0 +1,91 @@
+/*
+-------------------------------------------------
+Copyright 2009 RAGE Software, www.ragesw.com
+
+Fore more templates visit:
+http://www.ragesw.com/templates.php
+
+This template may be used by the purchasing party only.
+You may not resell or redistribute this template in any
+way shape or form. See the included
+terms and conditions read me included with the
+downloaded template for more information.
+-------------------------------------------------
+*/
+
+/* ----- =nav ------*/
+#nav {
+	width: 756px;
+	height: 35px;
+	margin: 10px 4px 0 4px;
+	padding: 0;
+}
+#nav li {
+	float: left;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	height: 100%;
+}
+#nav li a {
+	padding: 10px 15px 2px 0px;
+	display: block;
+	font-family: Helvetica, Arial, sans-serif;
+	text-decoration: none;
+	color: black;
+}
+
+#nav li a:hover {
+	text-decoration: underline;
+}
+
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+}
+
+#wrapper {
+	margin: 0 auto;
+	width: 922px;
+}
+#header {
+	color: #333;
+	width: 900px;
+	float: left;
+	padding: 10px;
+	border: 1px solid #ccc;
+	height: 115px;
+	margin: 10px 0px 5px 0px;
+	background: #c0c0c0;
+}
+#leftcolumn { 
+	color: #333;
+	border: 1px solid #ccc;
+	background: #e0e0e0;
+	margin: 0px 5px 5px 0px;
+	padding: 10px;
+	height: 350px;
+	width: 195px;
+	float: left;
+}
+#rightcolumn { 
+	float: right;
+	color: #333;
+	border: 1px solid #ccc;
+	ackground: #d0d0d0;
+	margin: 0px 0px 5px 0px;
+	padding: 10px;
+	height: 350px;
+	width: 678px;
+	display: inline;
+}
+#footer { 
+	width: 900px;
+	clear: both;
+	color: #333;
+	border: 1px solid #ccc;
+	background: #c0c0c0;
+	margin: 0px 0px 10px 0px;
+	padding: 10px;
+}
